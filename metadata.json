@@ -1,0 +1,5 @@
+{
+  "name": "DOI Finder (Arabic)",
+  "description": "An intelligent tool powered by Gemini to extract Digital Object Identifiers (DOI) from academic reference strings.",
+  "requestFramePermissions": []
+}
